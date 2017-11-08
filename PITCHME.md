@@ -37,8 +37,8 @@ responsive drawings
 [Drawudio a small step for a human, a great step for humanity](http://drawdio.com/) from MIT's **Lifelong Kindergarden** research group.
 
 ---
-### exercise: wiring your Arduino
-![capacitive arduino](https://i.stack.imgur.com/zq7rx.png)
+### Step 1: wiring your Arduino
+![capacitive arduino](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1510138899/step1_zlml08.png)
 ---
 ### arduino library
 
@@ -49,7 +49,9 @@ This does all the hard (calibration) work for you, get it from **sketch > librar
 ### exercise
 
 let's try getting some input signal from our piece of tinfoil
-
+---
+### step 2: adding pot to control threshold
+![capsensing with pot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_380/v1510138899/step2_nrywoz.png)
 ---
 ### capacitive sensing
 Is one of the fundamentals of interaction and it goes way back, however its a technique wide open to creativity and material research so the possibilities are endless, here are some examples old and new.
