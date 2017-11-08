@@ -9,7 +9,7 @@
 
 // the library we included above lets us use
 // this CapacitiveSensor "variable type" here
-CapacitiveSensor   cap = CapacitiveSensor(A4, A2);   // 10M resistor between pins 4 & 2, pin 2 is sensor pin, add a wire and or foil if desired
+CapacitiveSensor   cap = CapacitiveSensor(A2, A6);        // 10M resistor between pins 2 & 6, pin 6 is sensor pin, add a wire and or foil if desired
 
 // our usual setup, where the Arduino begins when it first gets powered
 // this is executed only once
