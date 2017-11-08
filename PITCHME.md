@@ -38,6 +38,7 @@ responsive drawings
 
 ---
 ### Step 1: wiring your Arduino
+---
 ![capacitive arduino](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1510138899/step1_zlml08.png)
 ---
 ### arduino library
@@ -50,7 +51,8 @@ This does all the hard (calibration) work for you, get it from **sketch > librar
 
 let's try getting some input signal from our piece of tinfoil
 ---
-### step 2: adding pot to control threshold
+### step 2: adding a pot to control threshold
+---
 ![capsensing with pot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_380/v1510138899/step2_nrywoz.png)
 ---
 ### capacitive sensing
