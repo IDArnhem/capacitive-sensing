@@ -53,7 +53,7 @@ let's try getting some input signal from our piece of tinfoil
 ---
 ### step 2: adding a pot to control threshold
 ---
-![capsensing with pot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_380/v1510138899/step2_nrywoz.png)
+![capsensing with pot](http://res.cloudinary.com/zilogtastic/image/upload/c_scale,h_400/v1510139328/step2_pa8asn.png)
 ---
 ### capacitive sensing
 Is one of the fundamentals of interaction and it goes way back, however its a technique wide open to creativity and material research so the possibilities are endless, here are some examples old and new.
